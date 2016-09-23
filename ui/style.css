@@ -21,7 +21,8 @@ body {
 }
 
 .text {
-    text-shadow:20px 20px 2px grey;
+    text-shadow:10px 10px 2px grey;
     font-size: 30px;
     color:green;
+    text-decoration: blink(500,500);
 }
