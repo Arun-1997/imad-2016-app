@@ -25,5 +25,7 @@ body {
     font-size: 30px;
     color:green;
     text-decoration: blink;
-    border: dashed 45px red;
+    border-color:  red;
+    border-style: dashed;
+    
 }
