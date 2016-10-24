@@ -20,7 +20,7 @@ body {
     height: 200px;
     -webkit-transition: -webkit-tranform 10s;
 }
-.img-medium:active
+.img-medium:hover
 {
     -webkit-transform:translate(500px,0px);
 }
