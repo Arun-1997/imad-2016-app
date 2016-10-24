@@ -26,9 +26,9 @@ body {
 }
 @keyframes logo
 {
-    from{-webkit-transform: rotateX(0deg);}
+    from{-webkit-transform: rotatey(0deg);}
     
-    to{-webkit-transform: rotateX(180deg);}
+    to{-webkit-transform: rotatey(180deg);}
 }
 #img1
 {
@@ -36,8 +36,12 @@ body {
     height:100px;
     position:absolute;
     margin:90px 560px;
-    animation:logo 4s;
     
+    
+}
+#img:active
+{
+    animation:logo 4s;
 }
 .text {
     text-shadow:4px 4px 4px grey;
