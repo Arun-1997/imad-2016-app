@@ -41,7 +41,8 @@ body {
 }
 #img1:active
 {
-    animation:logo 4s reverse;
+    animation:logo 4s;
+    transition:-webkit-tranform 4s;
 }
 .text {
     text-shadow:4px 4px 4px grey;
