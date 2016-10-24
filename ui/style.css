@@ -41,7 +41,7 @@ body {
 }
 #img1:active
 {
-    animation:logo 4s infinite;
+    animation:logo 4s reverse;
 }
 .text {
     text-shadow:4px 4px 4px grey;
