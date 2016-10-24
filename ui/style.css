@@ -31,7 +31,7 @@ body {
     background-color:gray;
     text-align: center;
     -webkit-transition: -webkit-transform 4s,text-shawdow 4s,font-size 4s,color 4s,border 4s,margin 4s;
-    
+    transition-timing-function: ease-in;
 }
 .text:hover
 {
