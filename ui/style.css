@@ -33,7 +33,7 @@ body {
     border-color:  red;
     border-style: dashed;
     margin:200px 200px;
-    background-color:gray;
+    background-color:blue;
     text-align: center;
     -webkit-transition: -webkit-transform 4s,text-shawdow 4s,font-size 4s,color 4s,border 4s,margin 4s;
     transition-timing-function: ease-in-out;
