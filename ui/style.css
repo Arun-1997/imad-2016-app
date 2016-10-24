@@ -29,12 +29,13 @@ body {
     border-style: dashed;
     margin:200px 200px;
     background-color:gray;
+    text-align: center;
     -webkit-transition: -webkit-transform 4s,text-shawdow 4s,font-size 4s,color 4s,border 4s,margin 4s;
     
 }
 .text:hover
 {
-    -webkit-tranform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
     text-shadow:none;
     font-size: 40px;
     color:rgb(0,0,255);
