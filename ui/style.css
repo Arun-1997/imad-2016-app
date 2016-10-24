@@ -26,10 +26,14 @@ body {
 }
 @keyframes logo
 {
-    from{-webkit-transform: rotatey(0deg);}
+    0%{-webkit-transform: rotatey(0deg);}
     
-    to{-webkit-transform: rotatey(180deg);}
-}
+    50%{-webkit-transform: rotatey(180deg);}
+
+        
+    100%{-webkit-transform: rotatey(360deg);}
+
+    }
 #img1
 {
     width:200px;
@@ -42,7 +46,7 @@ body {
 #img1:active
 {
     animation:logo 4s;
-    transition:-webkit-tranform 4s;
+    
 }
 .text {
     text-shadow:4px 4px 4px grey;
