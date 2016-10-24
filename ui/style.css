@@ -43,7 +43,7 @@ body {
     
     
 }
-#img1:active
+#img1:hover
 {
     animation:logo 4s;
     
