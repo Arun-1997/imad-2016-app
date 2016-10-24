@@ -27,5 +27,19 @@ body {
     text-decoration: blink;
     border-color:  red;
     border-style: dashed;
+    margin:200px 200px;
+    background-color:gray;
+    -webkit-transition: -webkit-transform 4s,text-shawdow 4s,font-size 4s,color 4s,border 4s,margin 4s;
     
+}
+.text:hover
+{
+    -webkit-tranform: rotate(360deg);
+    text-shadow:none;
+    font-size: 40px;
+    color:rgb(0,0,255);
+    border:2px solid green;
+    margin:250px 250px;
+    background-color:orange;
+}
 }
