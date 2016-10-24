@@ -18,6 +18,11 @@ body {
 
 .img-medium {
     height: 200px;
+    -webkit-transition: -webkit-tranform 10s;
+}
+.img-medium:active
+{
+    -webkit-transform:translate(500px,0px);
 }
 
 .text {
