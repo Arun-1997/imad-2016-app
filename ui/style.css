@@ -41,11 +41,7 @@ body {
     position:absolute;
     margin:90px 560px;
     
-    
-}
-#img1:hover
-{
-    animation:logo 4s;
+    animation:logo 8s;
     
 }
 .text {
