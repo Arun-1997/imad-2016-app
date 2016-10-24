@@ -24,12 +24,19 @@ body {
 {
     -webkit-transform:translate(500px,0px);
 }
+@keyframes logo
+{
+    from{-webkit-transform: rotateX(0deg);}
+    
+    to{-webkit-transform: rotateX(180deg);}
+}
 #img1
 {
     width:200px;
     height:100px;
     position:absolute;
     margin:90px 560px;
+    animation:logo 4s;
     
 }
 .text {
