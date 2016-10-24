@@ -18,9 +18,9 @@ body {
 
 .img-medium {
     height: 200px;
-    -webkit-transition: -webkit-tranform 10s;
+    -webkit-transition: -webkit-transform 10s;
 }
-.img-medium:hover
+.img-medium:active
 {
     -webkit-transform:translate(500px,0px);
 }
