@@ -24,7 +24,11 @@ body {
 {
     -webkit-transform:translate(500px,0px);
 }
-
+#img1
+{
+    width:auto;
+    height:auto;
+}
 .text {
     text-shadow:4px 4px 4px grey;
     font-size: 30px;
