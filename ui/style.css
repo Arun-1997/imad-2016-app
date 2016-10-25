@@ -17,6 +17,7 @@ body {
 }
 
 .img-medium {
+    position: relative;
     height: 200px;
     -webkit-transition: -webkit-transform 10s;
 }
@@ -36,6 +37,7 @@ body {
     }
 #img1
 {
+    position:relative;
     -webkit-flex:1;
     width:200px;
     height:100px;
