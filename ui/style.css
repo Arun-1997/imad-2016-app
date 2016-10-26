@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-    background-color: lightblue;
+    background-color: rgb(0,100,255);
     margin-top: 75px;
 }
 
@@ -62,12 +62,12 @@ body {
 }
 .text:hover
 {
-    -webkit-transform: rotate(360deg);
+    -webkit-transform: rotateY(360deg);
     border-radius: 25px;
     text-shadow:none;
     font-size: 40px;
     color:rgb(0,0,255);
     border:2px solid green;
     margin:180px 180px;
-    background-color:orange;
+    background-color:rgb(0,100,255);
 }
