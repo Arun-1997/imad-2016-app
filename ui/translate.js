@@ -1,5 +1,5 @@
 
-{
+
 	function gototransition()
 	{
 		animate();
@@ -20,4 +20,3 @@
 				} 
 			}
 	}
-}
