@@ -2,6 +2,10 @@ var pos = 0;
     
 function gotoimg1()
 {
+    animate();
+}
+function animate()
+{
     var x = document.getElementById('img1');
     var t = setInterval(move,15);
     function move()
