@@ -62,7 +62,7 @@ body {
 }
 .text:hover
 {
-    -webkit-transform: rotateY(360deg);
+    -webkit-transform: rotatex(360deg);
     border-radius: 25px;
     text-shadow:none;
     font-size: 40px;
