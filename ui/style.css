@@ -82,7 +82,7 @@ body {
     display: inline-block;
 	border-radius: 5px;
     font-size: 16px;
-	margin:0px 600px;
+	margin: 0 600px;
 	-webkit-transition: background-color 0.5s,box-shadow 0.5s;
 }
 #madi:hover
